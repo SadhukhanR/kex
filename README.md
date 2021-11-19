@@ -30,7 +30,7 @@ Kex is a Kali NetHunter Installer. Which is install official NetHunter relesed b
 + Internet
 ## Installation
 To install Kali NetHunter via Kex You need to download main Kex installer
-+ <a href="https://raw.githubusercontent.com/SadhukhanR/kex/main/kex.sh">Download</a>
++ <a href="https://raw.githubusercontent.com/SadhukhanR/kex/dev2/kex.sh">Download</a>
 <br>
 
 After download open termux and go to Download folder where kex.sh file was saved 
@@ -64,4 +64,4 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Project Status
-Devolopement Stage
+Beta
