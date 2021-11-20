@@ -1,4 +1,4 @@
-# kex
+
 > Kali Installer Simple & Powerful
 <pre>
 kkkkkkkk                                                 
@@ -64,7 +64,10 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Project Status
-V 1.0
+V 1.0 
+## Assets 
++ [Source Code (.zip)](https://github.com/SadhukhanR/kex/archive/refs/tags/v1.0.zip)
++ [source Code (.tar.gz)](https://github.com/SadhukhanR/kex/archive/refs/tags/v1.0.tar.gz)
 ### Beta
 dev2 branch
 
